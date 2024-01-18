@@ -9,9 +9,9 @@ import 'dart:html';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:youtube_player_iframe/src/enums/player_state.dart';
-import 'package:youtube_player_iframe/src/enums/youtube_error.dart';
-import 'package:youtube_player_iframe/src/helpers/player_fragments.dart';
+import 'package:youtube_player_iframe_plus/src/enums/player_state.dart';
+import 'package:youtube_player_iframe_plus/src/enums/youtube_error.dart';
+import 'package:youtube_player_iframe_plus/src/helpers/player_fragments.dart';
 
 import '../controller.dart';
 import '../meta_data.dart';
